@@ -7,9 +7,11 @@
     "tft": "bin/start"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "compile": "babel src -d dist",
-    "watch": "npm run compile -- --watch"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:supreme429/tft-cli.git"
   },
   "author": "supreme429",
   "license": "ISC",
