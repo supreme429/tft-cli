@@ -1,5 +1,5 @@
-let gitUrl = 'https://github.com/jackie-gan/vue-spa-template.git'
+let gitUrl = 'git@88.88.16.32:front/e-Invoice.git' // templete URL
 
 
-exports.TEMPLATE_GIT_REPO = `direct: + ${gitUrl}`;
+exports.TEMPLATE_GIT_REPO = `direct:${gitUrl}`;
 exports.INJECT_FILES = ['package.json'];
