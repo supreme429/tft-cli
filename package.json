@@ -1,6 +1,6 @@
 {
   "name": "tft-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "tft-cli built by tft-mobile-h5 scaffold",
   "main": "index.js",
   "bin": {
